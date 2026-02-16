@@ -1,0 +1,16 @@
+BMP Bpp Conv - by Orion_ [2014]
+
+https://orionsoft.games/
+orionsoft@free.fr
+
+This tool Convert an 8bpp BMP to 4bpp, or a 4bpp BMP to 2bpp.
+
+Usage: bmpbppconv file.bmp
+Or just drag and drop your bmp file on the exe.
+
+WARNING: Your original file will be overwritten with the new one !!!
+
+
+2bpp BMP are a Valid BMP format, BUT, most of the painting/viewer program won't read/write this format !
+(That's why I made this convertion tool)
+The only image viewer I know that can correctly read 2bpp BMP is XnView.
